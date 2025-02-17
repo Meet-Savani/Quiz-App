@@ -15,6 +15,12 @@ A fully functional **Quiz Application** built with **React.js** and **Tailwind C
 
 --- 
 
+## 🤔 Why I Built This
+
+As a frontend developer exploring **React.js**, I wanted to build a **real-world project** that would strengthen my understanding of **components, state management, and UI design.** A quiz app was the perfect choice as it involves dynamic interactions, real-time updates, and an engaging user experience. This project helped me enhance my problem-solving skills and deepen my knowledge of **React hooks and Tailwind CSS**.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS  
