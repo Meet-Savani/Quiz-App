@@ -6,12 +6,12 @@ A fully functional **Quiz Application** built with **React.js** and **Tailwind C
 
 ## 🚀 Features
 
-✅ **Dynamic Quiz Questions** – Users can attempt multiple questions and get instant feedback.
-✅ **Score Tracking** – The app keeps track of correct and incorrect answers.
-✅ **Real-time Validation** – Users receive immediate feedback upon selecting an answer.
-✅ **State Management** – Uses React hooks (useState) to handle quiz progress.
-✅ **Responsive Design** – Built with Tailwind CSS for a seamless experience on any device.
-✅ **Simple & Clean UI** – Modern and minimal design for an intuitive user experience.
+✅ **Dynamic Quiz Questions** – Users can attempt multiple questions and get instant feedback.  
+✅ **Score Tracking** – The app keeps track of correct and incorrect answers.  
+✅ **Real-time Validation** – Users receive immediate feedback upon selecting an answer.  
+✅ **State Management** – Uses React hooks (useState) to handle quiz progress.  
+✅ **Responsive Design** – Built with Tailwind CSS for a seamless experience on any device.  
+✅ **Simple & Clean UI** – Modern and minimal design for an intuitive user experience.  
 
 --- 
 
